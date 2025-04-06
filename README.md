@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0031-next-permutation) |
+| [0048-rotate-image](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0075-sort-colors) |
@@ -40,6 +41,7 @@
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0268-missing-number) |
 ## Binary Search
@@ -82,5 +84,6 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
