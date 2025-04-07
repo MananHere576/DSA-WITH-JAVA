@@ -26,6 +26,7 @@
 | [0238-product-of-array-except-self](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0283-move-zeroes) |
+| [0416-partition-equal-subset-sum](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0416-partition-equal-subset-sum) |
 | [0485-max-consecutive-ones](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0560-subarray-sum-equals-k) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -92,6 +93,7 @@
 | [0118-pascals-triangle](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0152-maximum-product-subarray) |
+| [0416-partition-equal-subset-sum](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0416-partition-equal-subset-sum) |
 ## Simulation
 |  |
 | ------- |
