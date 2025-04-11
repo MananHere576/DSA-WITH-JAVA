@@ -29,6 +29,7 @@
 | [0268-missing-number](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0283-move-zeroes) |
 | [0416-partition-equal-subset-sum](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0416-partition-equal-subset-sum) |
+| [0456-132-pattern](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0456-132-pattern) |
 | [0463-island-perimeter](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0560-subarray-sum-equals-k) |
@@ -69,6 +70,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0268-missing-number) |
+| [0456-132-pattern](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0456-132-pattern) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -138,4 +140,16 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0209-minimum-size-subarray-sum) |
+## Stack
+|  |
+| ------- |
+| [0456-132-pattern](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0456-132-pattern) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0456-132-pattern](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0456-132-pattern) |
+## Ordered Set
+|  |
+| ------- |
+| [0456-132-pattern](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0456-132-pattern) |
 <!---LeetCode Topics End-->
