@@ -65,6 +65,7 @@
 | [0048-rotate-image](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0268-missing-number) |
+| [2998-count-symmetric-integers](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/2998-count-symmetric-integers) |
 | [3227-find-missing-and-repeated-values](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/3227-find-missing-and-repeated-values) |
 ## Binary Search
 |  |
@@ -156,4 +157,8 @@
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0456-132-pattern) |
+## Enumeration
+|  |
+| ------- |
+| [2998-count-symmetric-integers](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/2998-count-symmetric-integers) |
 <!---LeetCode Topics End-->
