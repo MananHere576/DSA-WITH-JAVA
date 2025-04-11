@@ -24,10 +24,6 @@ class Solution {
         {
             set.add(arr[i]);
         }
-        for(int i=0;i<x;i++)
-        {
-            brr[i]=i+1;
-        }
         for(int i=1;i<=x;i++)
         {
             if(set.contains(i))
@@ -41,7 +37,5 @@ class Solution {
         c[0]=p;
         c[1]=q;
         return c;
-
-
     }
 }
