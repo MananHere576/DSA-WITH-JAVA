@@ -59,6 +59,7 @@
 | [0075-sort-colors](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0283-move-zeroes) |
+| [0345-reverse-vowels-of-a-string](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0345-reverse-vowels-of-a-string) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Math
 |  |
@@ -166,5 +167,6 @@
 ## String
 |  |
 | ------- |
+| [0345-reverse-vowels-of-a-string](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0345-reverse-vowels-of-a-string) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 <!---LeetCode Topics End-->
