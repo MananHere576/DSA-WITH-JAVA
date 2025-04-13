@@ -57,6 +57,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0075-sort-colors) |
+| [0151-reverse-words-in-a-string](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0345-reverse-vowels-of-a-string) |
@@ -167,6 +168,7 @@
 ## String
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0345-reverse-vowels-of-a-string) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 <!---LeetCode Topics End-->
