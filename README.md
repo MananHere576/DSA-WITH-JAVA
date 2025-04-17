@@ -35,6 +35,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0560-subarray-sum-equals-k) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [3227-find-missing-and-repeated-values](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/3227-find-missing-and-repeated-values) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Hash Table
