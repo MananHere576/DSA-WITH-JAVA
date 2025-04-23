@@ -170,6 +170,7 @@
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0456-132-pattern) |
+| [1078-remove-outermost-parentheses](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/1078-remove-outermost-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -187,6 +188,7 @@
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0345-reverse-vowels-of-a-string) |
+| [1078-remove-outermost-parentheses](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/1078-remove-outermost-parentheses) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Tree
 |  |
