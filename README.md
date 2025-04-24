@@ -77,6 +77,7 @@
 | [0048-rotate-image](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0268-missing-number) |
+| [0412-fizz-buzz](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0412-fizz-buzz) |
 | [2032-largest-odd-number-in-string](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/2032-largest-odd-number-in-string) |
 | [2448-count-number-of-bad-pairs](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/2448-count-number-of-bad-pairs) |
 | [2998-count-symmetric-integers](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/2998-count-symmetric-integers) |
@@ -128,6 +129,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0054-spiral-matrix) |
+| [0412-fizz-buzz](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0412-fizz-buzz) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Union Find
 |  |
@@ -195,6 +197,7 @@
 | [0205-isomorphic-strings](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0345-reverse-vowels-of-a-string) |
+| [0412-fizz-buzz](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0412-fizz-buzz) |
 | [0812-rotate-string](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/1078-remove-outermost-parentheses) |
 | [2032-largest-odd-number-in-string](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/2032-largest-odd-number-in-string) |
