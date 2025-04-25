@@ -184,6 +184,7 @@
 | ------- |
 | [0456-132-pattern](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0456-132-pattern) |
 | [1078-remove-outermost-parentheses](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/1078-remove-outermost-parentheses) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -209,6 +210,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0451-sort-characters-by-frequency) |
 | [0812-rotate-string](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/1078-remove-outermost-parentheses) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2032-largest-odd-number-in-string](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/2032-largest-odd-number-in-string) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Tree
