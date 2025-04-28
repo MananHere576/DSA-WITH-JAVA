@@ -169,6 +169,7 @@
 | [0200-number-of-islands](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0463-island-perimeter) |
 | [0733-flood-fill](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0733-flood-fill) |
+| [0813-all-paths-from-source-to-target](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0813-all-paths-from-source-to-target) |
 | [1493-frog-position-after-t-seconds](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/1493-frog-position-after-t-seconds) |
 ## Breadth-First Search
 |  |
@@ -177,6 +178,7 @@
 | [0200-number-of-islands](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0463-island-perimeter) |
 | [0733-flood-fill](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0733-flood-fill) |
+| [0813-all-paths-from-source-to-target](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0813-all-paths-from-source-to-target) |
 | [1493-frog-position-after-t-seconds](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/1493-frog-position-after-t-seconds) |
 ## Sliding Window
 |  |
@@ -225,6 +227,7 @@
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0133-clone-graph) |
+| [0813-all-paths-from-source-to-target](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0813-all-paths-from-source-to-target) |
 | [1493-frog-position-after-t-seconds](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/1493-frog-position-after-t-seconds) |
 ## Greedy
 |  |
@@ -246,4 +249,8 @@
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0451-sort-characters-by-frequency) |
+## Backtracking
+|  |
+| ------- |
+| [0813-all-paths-from-source-to-target](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0813-all-paths-from-source-to-target) |
 <!---LeetCode Topics End-->
