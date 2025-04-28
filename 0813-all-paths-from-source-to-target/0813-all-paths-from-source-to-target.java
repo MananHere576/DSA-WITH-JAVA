@@ -4,24 +4,49 @@ class Solution {
         List<List<Integer>> ans = new ArrayList<>();
         List<Integer> temp = new ArrayList<>();
         temp.add(0);
-        dfs(graph,ans,temp,0);
+        bfs(graph,ans,temp,0);
+        //dfs(graph,ans,temp,0);
         return ans;
     }
-    
-   public void dfs(int[][] graph, List<List<Integer>> ans, List<Integer> temp, int start)
-   {
-        if(start == graph.length-1)
+    public void bfs(int[][] graph, List<List<Integer>> ans, List<Integer> temp, int start) 
+    {
+        Queue<List<Integer>> queue = new LinkedList<>();
+        queue.add(new ArrayList<>(temp));
+        while (!queue.isEmpty()) 
         {
-            ans.add(new ArrayList<>(temp));
-            return;
+            List<Integer> path = queue.poll();
+            int lastNode = path.get(path.size() - 1);
+            if (lastNode == graph.length - 1) 
+            {
+                ans.add(new ArrayList<>(path));
+                continue;
+            }
+            for (int nextNode : graph[lastNode]) 
+            {
+                List<Integer> newPath = new ArrayList<>(path);
+                newPath.add(nextNode);
+                queue.add(newPath);
+            }
         }
-        
-        for(int i : graph[start])
-        {
-            temp.add(i);
-            dfs(graph,ans,temp,i);
-            temp.remove(temp.size()-1);  
-        }
-        
     }
+
+
+
+
+    
+//    public void dfs(int[][] graph, List<List<Integer>> ans, List<Integer> temp, int start)
+//    {
+//         if(start == graph.length-1)
+//         {
+//             ans.add(new ArrayList<>(temp));
+//             return;
+//         }
+        
+//         for(int i : graph[start])
+//         {
+//             temp.add(i);
+//             dfs(graph,ans,temp,i);
+//             temp.remove(temp.size()-1);  
+//         } 
+//     }
 }
