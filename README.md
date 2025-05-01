@@ -45,6 +45,7 @@
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2448-count-number-of-bad-pairs](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/2448-count-number-of-bad-pairs) |
 | [3227-find-missing-and-repeated-values](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/3227-find-missing-and-repeated-values) |
+| [3651-transformed-array](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/3651-transformed-array) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Hash Table
 |  |
@@ -145,6 +146,7 @@
 | [0054-spiral-matrix](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0054-spiral-matrix) |
 | [0412-fizz-buzz](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0412-fizz-buzz) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/2271-rearrange-array-elements-by-sign) |
+| [3651-transformed-array](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/3651-transformed-array) |
 ## Union Find
 |  |
 | ------- |
