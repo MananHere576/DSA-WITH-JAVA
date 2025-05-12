@@ -26,7 +26,7 @@ class Solution {
             }
             swap(nums,ind1,ind2);
             reverse(nums,ind1+1);
-        }
+        } 
     }
     void swap(int[] nums,int i,int j)
     {
