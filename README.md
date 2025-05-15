@@ -23,6 +23,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0189-rotate-array) |
+| [0198-house-robber](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0217-contains-duplicate) |
@@ -141,6 +142,7 @@
 | [0118-pascals-triangle](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0152-maximum-product-subarray) |
+| [0198-house-robber](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0198-house-robber) |
 | [0416-partition-equal-subset-sum](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0474-ones-and-zeroes) |
 | [1299-k-concatenation-maximum-sum](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/1299-k-concatenation-maximum-sum) |
