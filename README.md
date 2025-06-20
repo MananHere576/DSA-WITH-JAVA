@@ -84,6 +84,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0268-missing-number) |
@@ -271,4 +272,12 @@
 | [0090-subsets-ii](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0090-subsets-ii) |
 | [0800-letter-case-permutation](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0800-letter-case-permutation) |
 | [0813-all-paths-from-source-to-target](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0813-all-paths-from-source-to-target) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
