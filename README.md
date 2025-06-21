@@ -276,8 +276,10 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0002-add-two-numbers) |
+| [0206-reverse-linked-list](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0002-add-two-numbers) |
+| [0206-reverse-linked-list](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
