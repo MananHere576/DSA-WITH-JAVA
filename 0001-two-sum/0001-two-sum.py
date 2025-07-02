@@ -5,8 +5,7 @@ class Solution:
         for i in range(n):
             a=nums[i]
             diff=target-a
-            j=i+1
-            for j in range(j,n):
+            for j in range(i+1,n):
                 if(diff==nums[j]):
                     return [i,j]
         return           
