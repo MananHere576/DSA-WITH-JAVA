@@ -96,6 +96,7 @@
 | [2448-count-number-of-bad-pairs](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/2448-count-number-of-bad-pairs) |
 | [2998-count-symmetric-integers](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/2998-count-symmetric-integers) |
 | [3227-find-missing-and-repeated-values](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/3227-find-missing-and-repeated-values) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -113,6 +114,7 @@
 | [0136-single-number](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0268-missing-number) |
 | [0800-letter-case-permutation](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0800-letter-case-permutation) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Sorting
 |  |
 | ------- |
@@ -155,6 +157,7 @@
 | [0054-spiral-matrix](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0054-spiral-matrix) |
 | [0412-fizz-buzz](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0412-fizz-buzz) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/2271-rearrange-array-elements-by-sign) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3651-transformed-array](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/3651-transformed-array) |
 ## Union Find
 |  |
@@ -285,4 +288,5 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0206-reverse-linked-list) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 <!---LeetCode Topics End-->
