@@ -285,11 +285,13 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0002-add-two-numbers) |
 | [0141-linked-list-cycle](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0141-linked-list-cycle) |
+| [0203-remove-linked-list-elements](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0002-add-two-numbers) |
+| [0203-remove-linked-list-elements](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0206-reverse-linked-list) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 <!---LeetCode Topics End-->
