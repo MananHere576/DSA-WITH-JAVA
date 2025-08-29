@@ -9,6 +9,7 @@
 | [0031-next-permutation](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0035-search-insert-position) |
+| [0046-permutations](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0054-spiral-matrix) |
@@ -277,6 +278,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0022-generate-parentheses) |
+| [0046-permutations](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0046-permutations) |
 | [0090-subsets-ii](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0090-subsets-ii) |
 | [0800-letter-case-permutation](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0800-letter-case-permutation) |
 | [0813-all-paths-from-source-to-target](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0813-all-paths-from-source-to-target) |
