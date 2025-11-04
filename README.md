@@ -42,6 +42,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0560-subarray-sum-equals-k) |
 | [0733-flood-fill](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0733-flood-fill) |
 | [0792-binary-search](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0792-binary-search) |
+| [1044-find-common-characters](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/1044-find-common-characters) |
 | [1299-k-concatenation-maximum-sum](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/1299-k-concatenation-maximum-sum) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -71,6 +72,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0560-subarray-sum-equals-k) |
+| [1044-find-common-characters](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/1044-find-common-characters) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2448-count-number-of-bad-pairs](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/2448-count-number-of-bad-pairs) |
@@ -246,6 +248,7 @@
 | [0474-ones-and-zeroes](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0474-ones-and-zeroes) |
 | [0800-letter-case-permutation](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0800-letter-case-permutation) |
 | [0812-rotate-string](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0812-rotate-string) |
+| [1044-find-common-characters](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/1044-find-common-characters) |
 | [1078-remove-outermost-parentheses](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2032-largest-odd-number-in-string](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/2032-largest-odd-number-in-string) |
