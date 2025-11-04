@@ -1,28 +1,17 @@
 class Solution {
     public boolean check(int[] nums) {
-        boolean flag = true;
-        int p = -1;  
-        int x = nums[0];
-
-        for (int i=1;i<nums.length;i++) {
-            if (nums[i-1]>nums[i]) { 
-                p=i;
-                break;
+        int count=0;
+        for(int i=0;i<nums.length-1;i++){
+            if(nums[i]>nums[i+1]){
+                count++;
             }
         }
-
-        if (p!=-1) {  
-            for (int i=p;i<nums.length-1;i++) {
-                if (nums[i]>nums[i+1]) {
-                    flag = false;
-                    break;
-                }
-            }
-            if (nums[nums.length-1]>x) {  
-                flag = false;
-            }
+        if(nums[nums.length-1]>nums[0]){
+            count++;
         }
-
-        return flag;
+        if(count<=1){
+            return true;
+        }
+        return false;
     }
 }
