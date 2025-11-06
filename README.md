@@ -89,6 +89,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0283-move-zeroes) |
+| [0344-reverse-string](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0345-reverse-vowels-of-a-string) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Math
@@ -241,6 +242,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0242-valid-anagram) |
+| [0344-reverse-string](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0412-fizz-buzz](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0424-longest-repeating-character-replacement) |
