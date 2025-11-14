@@ -98,6 +98,7 @@
 | [0002-add-two-numbers](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0189-rotate-array) |
+| [0258-add-digits](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0412-fizz-buzz) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -166,6 +167,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0054-spiral-matrix) |
+| [0258-add-digits](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0412-fizz-buzz) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -334,4 +336,8 @@
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
