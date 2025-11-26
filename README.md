@@ -59,6 +59,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0133-clone-graph) |
@@ -218,6 +219,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0424-longest-repeating-character-replacement) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
@@ -242,6 +244,7 @@
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
