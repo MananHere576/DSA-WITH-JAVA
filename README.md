@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0001-two-sum) |
+| [0016-3sum-closest](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0033-search-in-rotated-sorted-array) |
@@ -84,6 +85,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0031-next-permutation) |
@@ -132,6 +134,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0075-sort-colors) |
 | [0164-maximum-gap](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0169-majority-element) |
