@@ -109,6 +109,7 @@
 | [0412-fizz-buzz](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0412-fizz-buzz) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [1925-count-square-sum-triples](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/1925-count-square-sum-triples) |
 | [2032-largest-odd-number-in-string](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/2032-largest-odd-number-in-string) |
 | [2448-count-number-of-bad-pairs](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/2448-count-number-of-bad-pairs) |
 | [2998-count-symmetric-integers](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/2998-count-symmetric-integers) |
@@ -244,6 +245,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [1925-count-square-sum-triples](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/1925-count-square-sum-triples) |
 | [2998-count-symmetric-integers](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/2998-count-symmetric-integers) |
 ## String
 |  |
