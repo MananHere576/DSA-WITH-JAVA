@@ -54,6 +54,7 @@
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2448-count-number-of-bad-pairs](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/2448-count-number-of-bad-pairs) |
 | [3227-find-missing-and-repeated-values](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/3227-find-missing-and-repeated-values) |
+| [3531-count-covered-buildings](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/3531-count-covered-buildings) |
 | [3651-transformed-array](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/3651-transformed-array) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
@@ -82,6 +83,7 @@
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2448-count-number-of-bad-pairs](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/2448-count-number-of-bad-pairs) |
 | [3227-find-missing-and-repeated-values](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/3227-find-missing-and-repeated-values) |
+| [3531-count-covered-buildings](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/3531-count-covered-buildings) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Two Pointers
 |  |
@@ -147,6 +149,7 @@
 | [0242-valid-anagram](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0451-sort-characters-by-frequency) |
+| [3531-count-covered-buildings](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/3531-count-covered-buildings) |
 ## Divide and Conquer
 |  |
 | ------- |
