@@ -57,6 +57,7 @@
 | [2448-count-number-of-bad-pairs](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/2448-count-number-of-bad-pairs) |
 | [3227-find-missing-and-repeated-values](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/3227-find-missing-and-repeated-values) |
 | [3531-count-covered-buildings](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/3531-count-covered-buildings) |
+| [3606-coupon-code-validator](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/3606-coupon-code-validator) |
 | [3651-transformed-array](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/3651-transformed-array) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
@@ -87,6 +88,7 @@
 | [2448-count-number-of-bad-pairs](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/2448-count-number-of-bad-pairs) |
 | [3227-find-missing-and-repeated-values](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/3227-find-missing-and-repeated-values) |
 | [3531-count-covered-buildings](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/3531-count-covered-buildings) |
+| [3606-coupon-code-validator](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/3606-coupon-code-validator) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Two Pointers
 |  |
@@ -154,6 +156,7 @@
 | [0268-missing-number](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0451-sort-characters-by-frequency) |
 | [3531-count-covered-buildings](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/3531-count-covered-buildings) |
+| [3606-coupon-code-validator](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/3606-coupon-code-validator) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -282,6 +285,7 @@
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2032-largest-odd-number-in-string](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/2032-largest-odd-number-in-string) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
+| [3606-coupon-code-validator](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/3606-coupon-code-validator) |
 ## Tree
 |  |
 | ------- |
