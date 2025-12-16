@@ -31,6 +31,7 @@
 | [0200-number-of-islands](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0217-contains-duplicate) |
+| [0221-maximal-square](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0221-maximal-square) |
 | [0229-majority-element-ii](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0268-missing-number) |
@@ -183,6 +184,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0198-house-robber) |
+| [0221-maximal-square](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0221-maximal-square) |
 | [0416-partition-equal-subset-sum](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0474-ones-and-zeroes) |
 | [1299-k-concatenation-maximum-sum](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/1299-k-concatenation-maximum-sum) |
@@ -208,6 +210,7 @@
 | [0054-spiral-matrix](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0200-number-of-islands) |
+| [0221-maximal-square](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0221-maximal-square) |
 | [0463-island-perimeter](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0463-island-perimeter) |
 | [0733-flood-fill](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0733-flood-fill) |
 | [3227-find-missing-and-repeated-values](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/3227-find-missing-and-repeated-values) |
