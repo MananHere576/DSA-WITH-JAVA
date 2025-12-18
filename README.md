@@ -36,6 +36,7 @@
 | [0238-product-of-array-except-self](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0283-move-zeroes) |
+| [0322-coin-change](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0416-partition-equal-subset-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0456-132-pattern](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0456-132-pattern) |
@@ -185,6 +186,7 @@
 | [0152-maximum-product-subarray](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0198-house-robber) |
 | [0221-maximal-square](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0221-maximal-square) |
+| [0322-coin-change](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0474-ones-and-zeroes) |
 | [1299-k-concatenation-maximum-sum](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/1299-k-concatenation-maximum-sum) |
@@ -234,6 +236,7 @@
 | ------- |
 | [0133-clone-graph](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0200-number-of-islands) |
+| [0322-coin-change](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0322-coin-change) |
 | [0463-island-perimeter](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0463-island-perimeter) |
 | [0733-flood-fill](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0733-flood-fill) |
 | [0813-all-paths-from-source-to-target](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0813-all-paths-from-source-to-target) |
