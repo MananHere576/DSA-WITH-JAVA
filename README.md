@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0016-3sum-closest](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0027-remove-element) |
@@ -130,6 +131,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -162,6 +164,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0053-maximum-subarray) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0169-majority-element) |
