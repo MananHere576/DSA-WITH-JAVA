@@ -47,6 +47,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0560-subarray-sum-equals-k) |
 | [0733-flood-fill](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0733-flood-fill) |
 | [0792-binary-search](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0792-binary-search) |
+| [0944-delete-columns-to-make-sorted](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0944-delete-columns-to-make-sorted) |
 | [1044-find-common-characters](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/1044-find-common-characters) |
 | [1299-k-concatenation-maximum-sum](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/1299-k-concatenation-maximum-sum) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -291,6 +292,7 @@
 | [0474-ones-and-zeroes](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0474-ones-and-zeroes) |
 | [0800-letter-case-permutation](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0800-letter-case-permutation) |
 | [0812-rotate-string](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0812-rotate-string) |
+| [0944-delete-columns-to-make-sorted](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0944-delete-columns-to-make-sorted) |
 | [1044-find-common-characters](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/1044-find-common-characters) |
 | [1078-remove-outermost-parentheses](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
