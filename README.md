@@ -49,6 +49,7 @@
 | [0733-flood-fill](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0733-flood-fill) |
 | [0792-binary-search](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0792-binary-search) |
 | [0944-delete-columns-to-make-sorted](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0944-delete-columns-to-make-sorted) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1044-find-common-characters](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/1044-find-common-characters) |
 | [1299-k-concatenation-maximum-sum](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/1299-k-concatenation-maximum-sum) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -89,6 +90,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0560-subarray-sum-equals-k) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1044-find-common-characters](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/1044-find-common-characters) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
