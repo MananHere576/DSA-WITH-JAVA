@@ -204,6 +204,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0474-ones-and-zeroes) |
 | [1299-k-concatenation-maximum-sum](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/1299-k-concatenation-maximum-sum) |
+| [1411-number-of-ways-to-paint-n-3-grid](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 ## Simulation
 |  |
 | ------- |
