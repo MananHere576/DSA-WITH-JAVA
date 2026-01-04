@@ -53,6 +53,7 @@
 | [1044-find-common-characters](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/1044-find-common-characters) |
 | [1299-k-concatenation-maximum-sum](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/1299-k-concatenation-maximum-sum) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1390-four-divisors](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/1390-four-divisors) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1470-shuffle-the-array](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/1470-shuffle-the-array) |
@@ -128,6 +129,7 @@
 | [0258-add-digits](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0412-fizz-buzz) |
+| [1390-four-divisors](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/1390-four-divisors) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1925-count-square-sum-triples](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/1925-count-square-sum-triples) |
