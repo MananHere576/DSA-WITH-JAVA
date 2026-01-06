@@ -250,6 +250,7 @@
 | [0463-island-perimeter](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0463-island-perimeter) |
 | [0733-flood-fill](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0733-flood-fill) |
 | [0813-all-paths-from-source-to-target](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0813-all-paths-from-source-to-target) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1493-frog-position-after-t-seconds](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/1493-frog-position-after-t-seconds) |
 ## Breadth-First Search
 |  |
@@ -260,6 +261,7 @@
 | [0463-island-perimeter](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0463-island-perimeter) |
 | [0733-flood-fill](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0733-flood-fill) |
 | [0813-all-paths-from-source-to-target](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0813-all-paths-from-source-to-target) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1493-frog-position-after-t-seconds](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/1493-frog-position-after-t-seconds) |
 ## Sliding Window
 |  |
@@ -319,6 +321,7 @@
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1493-frog-position-after-t-seconds](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/1493-frog-position-after-t-seconds) |
 ## Graph
 |  |
@@ -399,6 +402,7 @@
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Number Theory
 |  |
 | ------- |
