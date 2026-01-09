@@ -93,6 +93,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0560-subarray-sum-equals-k) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1044-find-common-characters](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/1044-find-common-characters) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -252,6 +253,7 @@
 | [0463-island-perimeter](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0463-island-perimeter) |
 | [0733-flood-fill](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0733-flood-fill) |
 | [0813-all-paths-from-source-to-target](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0813-all-paths-from-source-to-target) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1493-frog-position-after-t-seconds](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/1493-frog-position-after-t-seconds) |
@@ -264,6 +266,7 @@
 | [0463-island-perimeter](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0463-island-perimeter) |
 | [0733-flood-fill](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0733-flood-fill) |
 | [0813-all-paths-from-source-to-target](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0813-all-paths-from-source-to-target) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1493-frog-position-after-t-seconds](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/1493-frog-position-after-t-seconds) |
 ## Sliding Window
@@ -324,6 +327,7 @@
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1493-frog-position-after-t-seconds](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/1493-frog-position-after-t-seconds) |
@@ -406,6 +410,7 @@
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Number Theory
