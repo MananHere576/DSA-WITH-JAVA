@@ -19,6 +19,7 @@
 | [0066-plus-one](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0075-sort-colors) |
+| [0085-maximal-rectangle](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0085-maximal-rectangle) |
 | [0090-subsets-ii](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -199,6 +200,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0053-maximum-subarray) |
+| [0085-maximal-rectangle](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0085-maximal-rectangle) |
 | [0097-interleaving-string](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0097-interleaving-string) |
 | [0118-pascals-triangle](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -233,6 +235,7 @@
 | [0048-rotate-image](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0073-set-matrix-zeroes) |
+| [0085-maximal-rectangle](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0221-maximal-square) |
 | [0463-island-perimeter](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0463-island-perimeter) |
@@ -280,12 +283,14 @@
 ## Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0085-maximal-rectangle) |
 | [0456-132-pattern](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0456-132-pattern) |
 | [1078-remove-outermost-parentheses](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0085-maximal-rectangle) |
 | [0456-132-pattern](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0456-132-pattern) |
 ## Ordered Set
 |  |
