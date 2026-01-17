@@ -69,6 +69,7 @@
 | [2448-count-number-of-bad-pairs](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/2448-count-number-of-bad-pairs) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3074-apple-redistribution-into-boxes](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3227-find-missing-and-repeated-values](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/3227-find-missing-and-repeated-values) |
@@ -147,6 +148,7 @@
 | [2032-largest-odd-number-in-string](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/2032-largest-odd-number-in-string) |
 | [2448-count-number-of-bad-pairs](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/2448-count-number-of-bad-pairs) |
 | [2998-count-symmetric-integers](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/2998-count-symmetric-integers) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3227-find-missing-and-repeated-values](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/3227-find-missing-and-repeated-values) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Binary Search
@@ -439,6 +441,7 @@
 |  |
 | ------- |
 | [1266-minimum-time-visiting-all-points](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/1266-minimum-time-visiting-all-points) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 ## Segment Tree
 |  |
 | ------- |
