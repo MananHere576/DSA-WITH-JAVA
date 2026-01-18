@@ -61,6 +61,7 @@
 | [1458-max-dot-product-of-two-subsequences](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1470-shuffle-the-array](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/1470-shuffle-the-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [1895-largest-magic-square](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/1895-largest-magic-square) |
 | [1929-concatenation-of-array](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/1929-concatenation-of-array) |
 | [1975-maximum-matrix-sum](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/1975-maximum-matrix-sum) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
@@ -253,6 +254,7 @@
 | [0463-island-perimeter](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0463-island-perimeter) |
 | [0733-flood-fill](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0733-flood-fill) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1895-largest-magic-square](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/1895-largest-magic-square) |
 | [1975-maximum-matrix-sum](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/1975-maximum-matrix-sum) |
 | [3227-find-missing-and-repeated-values](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/3227-find-missing-and-repeated-values) |
 ## Prefix Sum
@@ -261,6 +263,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0560-subarray-sum-equals-k) |
+| [1895-largest-magic-square](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/1895-largest-magic-square) |
 ## Depth-First Search
 |  |
 | ------- |
