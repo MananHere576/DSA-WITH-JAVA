@@ -75,6 +75,7 @@
 | [3074-apple-redistribution-into-boxes](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3227-find-missing-and-repeated-values](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/3227-find-missing-and-repeated-values) |
+| [3314-construct-the-minimum-bitwise-array-i](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3453-separate-squares-i](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/3454-separate-squares-ii) |
 | [3531-count-covered-buildings](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/3531-count-covered-buildings) |
@@ -175,6 +176,7 @@
 | [0136-single-number](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0268-missing-number) |
 | [0800-letter-case-permutation](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0800-letter-case-permutation) |
+| [3314-construct-the-minimum-bitwise-array-i](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Sorting
 |  |
