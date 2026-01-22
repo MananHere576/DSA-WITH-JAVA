@@ -79,6 +79,7 @@
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3453-separate-squares-i](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/3454-separate-squares-ii) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3531-count-covered-buildings](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/3531-count-covered-buildings) |
 | [3606-coupon-code-validator](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/3606-coupon-code-validator) |
 | [3651-transformed-array](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/3651-transformed-array) |
@@ -113,6 +114,7 @@
 | [2448-count-number-of-bad-pairs](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/2448-count-number-of-bad-pairs) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3227-find-missing-and-repeated-values](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/3227-find-missing-and-repeated-values) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3531-count-covered-buildings](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/3531-count-covered-buildings) |
 | [3606-coupon-code-validator](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/3606-coupon-code-validator) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
@@ -241,6 +243,7 @@
 | [0412-fizz-buzz](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0412-fizz-buzz) |
 | [1929-concatenation-of-array](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/1929-concatenation-of-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/2271-rearrange-array-elements-by-sign) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3651-transformed-array](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/3651-transformed-array) |
 ## Union Find
@@ -319,6 +322,7 @@
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0456-132-pattern) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Enumeration
 |  |
 | ------- |
@@ -389,6 +393,7 @@
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0451-sort-characters-by-frequency) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -411,6 +416,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0206-reverse-linked-list) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Recursion
 |  |
 | ------- |
@@ -461,4 +467,8 @@
 |  |
 | ------- |
 | [3454-separate-squares-ii](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/3454-separate-squares-ii) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 <!---LeetCode Topics End-->
