@@ -66,6 +66,7 @@
 | [1895-largest-magic-square](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/1895-largest-magic-square) |
 | [1929-concatenation-of-array](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/1929-concatenation-of-array) |
 | [1975-maximum-matrix-sum](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/1975-maximum-matrix-sum) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
@@ -199,6 +200,7 @@
 | [0268-missing-number](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0451-sort-characters-by-frequency) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3074-apple-redistribution-into-boxes](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/3075-maximize-happiness-of-selected-children) |
@@ -311,6 +313,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0424-longest-repeating-character-replacement) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Stack
 |  |
