@@ -52,6 +52,7 @@
 | [0944-delete-columns-to-make-sorted](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0944-delete-columns-to-make-sorted) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1044-find-common-characters](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/1044-find-common-characters) |
+| [1200-minimum-absolute-difference](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/1200-minimum-absolute-difference) |
 | [1266-minimum-time-visiting-all-points](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/1266-minimum-time-visiting-all-points) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1299-k-concatenation-maximum-sum](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/1299-k-concatenation-maximum-sum) |
@@ -199,6 +200,7 @@
 | [0242-valid-anagram](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0451-sort-characters-by-frequency) |
+| [1200-minimum-absolute-difference](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/1200-minimum-absolute-difference) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/2943-maximize-area-of-square-hole-in-grid) |
