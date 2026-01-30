@@ -75,6 +75,7 @@
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3074-apple-redistribution-into-boxes](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/3075-maximize-happiness-of-selected-children) |
@@ -246,6 +247,7 @@
 | [1299-k-concatenation-maximum-sum](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/1299-k-concatenation-maximum-sum) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/1458-max-dot-product-of-two-subsequences) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Simulation
 |  |
@@ -374,6 +376,7 @@
 | [2032-largest-odd-number-in-string](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/2032-largest-odd-number-in-string) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3606-coupon-code-validator](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/3606-coupon-code-validator) |
 ## Tree
 |  |
@@ -402,6 +405,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0014-longest-common-prefix) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/2977-minimum-cost-to-convert-string-ii) |
 ## String Matching
 |  |
 | ------- |
@@ -497,10 +501,12 @@
 |  |
 | ------- |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Shortest Path
 |  |
 | ------- |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 <!---LeetCode Topics End-->
