@@ -16,6 +16,7 @@
 | [0048-rotate-image](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0075-sort-colors) |
@@ -257,6 +258,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0059-spiral-matrix-ii) |
 | [0258-add-digits](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0412-fizz-buzz) |
 | [1929-concatenation-of-array](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/1929-concatenation-of-array) |
@@ -275,6 +277,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0200-number-of-islands) |
