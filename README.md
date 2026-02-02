@@ -51,6 +51,7 @@
 | [0733-flood-fill](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0733-flood-fill) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0792-binary-search) |
+| [0885-spiral-matrix-iii](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0885-spiral-matrix-iii) |
 | [0944-delete-columns-to-make-sorted](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0944-delete-columns-to-make-sorted) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1044-find-common-characters](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/1044-find-common-characters) |
@@ -261,6 +262,7 @@
 | [0059-spiral-matrix-ii](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0059-spiral-matrix-ii) |
 | [0258-add-digits](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0412-fizz-buzz) |
+| [0885-spiral-matrix-iii](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0885-spiral-matrix-iii) |
 | [1929-concatenation-of-array](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/1929-concatenation-of-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -284,6 +286,7 @@
 | [0221-maximal-square](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0221-maximal-square) |
 | [0463-island-perimeter](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0463-island-perimeter) |
 | [0733-flood-fill](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0733-flood-fill) |
+| [0885-spiral-matrix-iii](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0885-spiral-matrix-iii) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1895-largest-magic-square](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/1895-largest-magic-square) |
