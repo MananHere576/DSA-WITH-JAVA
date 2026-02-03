@@ -92,6 +92,7 @@
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3531-count-covered-buildings](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/3531-count-covered-buildings) |
 | [3606-coupon-code-validator](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/3606-coupon-code-validator) |
+| [3637-trionic-array-i](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/3637-trionic-array-i) |
 | [3651-transformed-array](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/3651-transformed-array) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
