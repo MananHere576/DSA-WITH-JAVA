@@ -55,6 +55,7 @@
 | [0944-delete-columns-to-make-sorted](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0944-delete-columns-to-make-sorted) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1044-find-common-characters](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/1044-find-common-characters) |
+| [1162-as-far-from-land-as-possible](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/1162-as-far-from-land-as-possible) |
 | [1200-minimum-absolute-difference](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/1200-minimum-absolute-difference) |
 | [1266-minimum-time-visiting-all-points](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/1266-minimum-time-visiting-all-points) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
@@ -253,6 +254,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0474-ones-and-zeroes) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [1162-as-far-from-land-as-possible](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/1162-as-far-from-land-as-possible) |
 | [1299-k-concatenation-maximum-sum](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/1299-k-concatenation-maximum-sum) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/1458-max-dot-product-of-two-subsequences) |
@@ -291,6 +293,7 @@
 | [0463-island-perimeter](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0463-island-perimeter) |
 | [0733-flood-fill](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0733-flood-fill) |
 | [0885-spiral-matrix-iii](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0885-spiral-matrix-iii) |
+| [1162-as-far-from-land-as-possible](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/1162-as-far-from-land-as-possible) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1895-largest-magic-square](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/1895-largest-magic-square) |
@@ -328,6 +331,7 @@
 | [0813-all-paths-from-source-to-target](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0813-all-paths-from-source-to-target) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1162-as-far-from-land-as-possible](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/1162-as-far-from-land-as-possible) |
 | [1493-frog-position-after-t-seconds](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/1493-frog-position-after-t-seconds) |
 ## Sliding Window
 |  |
