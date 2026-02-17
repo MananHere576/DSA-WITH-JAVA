@@ -54,6 +54,7 @@
 | [0885-spiral-matrix-iii](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0885-spiral-matrix-iii) |
 | [0944-delete-columns-to-make-sorted](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0944-delete-columns-to-make-sorted) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [0994-rotting-oranges](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0994-rotting-oranges) |
 | [1044-find-common-characters](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/1044-find-common-characters) |
 | [1162-as-far-from-land-as-possible](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/1162-as-far-from-land-as-possible) |
 | [1200-minimum-absolute-difference](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/1200-minimum-absolute-difference) |
@@ -293,6 +294,7 @@
 | [0463-island-perimeter](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0463-island-perimeter) |
 | [0733-flood-fill](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0733-flood-fill) |
 | [0885-spiral-matrix-iii](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0885-spiral-matrix-iii) |
+| [0994-rotting-oranges](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0994-rotting-oranges) |
 | [1162-as-far-from-land-as-possible](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/1162-as-far-from-land-as-possible) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -330,6 +332,7 @@
 | [0733-flood-fill](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0733-flood-fill) |
 | [0813-all-paths-from-source-to-target](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0813-all-paths-from-source-to-target) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0994-rotting-oranges](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0994-rotting-oranges) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1162-as-far-from-land-as-possible](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/1162-as-far-from-land-as-possible) |
 | [1493-frog-position-after-t-seconds](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/1493-frog-position-after-t-seconds) |
