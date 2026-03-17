@@ -197,6 +197,7 @@
 | [0090-subsets-ii](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0268-missing-number) |
+| [0784-letter-case-permutation](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0784-letter-case-permutation) |
 | [0800-letter-case-permutation](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0800-letter-case-permutation) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
@@ -390,6 +391,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0451-sort-characters-by-frequency) |
 | [0474-ones-and-zeroes](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0474-ones-and-zeroes) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [0784-letter-case-permutation](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0784-letter-case-permutation) |
 | [0800-letter-case-permutation](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0800-letter-case-permutation) |
 | [0812-rotate-string](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0812-rotate-string) |
 | [0944-delete-columns-to-make-sorted](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0944-delete-columns-to-make-sorted) |
@@ -452,6 +454,7 @@
 | [0022-generate-parentheses](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0046-permutations) |
 | [0090-subsets-ii](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0090-subsets-ii) |
+| [0784-letter-case-permutation](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0784-letter-case-permutation) |
 | [0800-letter-case-permutation](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0800-letter-case-permutation) |
 | [0813-all-paths-from-source-to-target](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0813-all-paths-from-source-to-target) |
 ## Linked List
