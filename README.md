@@ -316,6 +316,7 @@
 | ------- |
 | [0133-clone-graph](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0207-course-schedule) |
 | [0463-island-perimeter](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0463-island-perimeter) |
 | [0733-flood-fill](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0733-flood-fill) |
 | [0813-all-paths-from-source-to-target](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0813-all-paths-from-source-to-target) |
@@ -328,6 +329,7 @@
 | ------- |
 | [0133-clone-graph](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0207-course-schedule) |
 | [0322-coin-change](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0322-coin-change) |
 | [0463-island-perimeter](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0463-island-perimeter) |
 | [0733-flood-fill](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0733-flood-fill) |
@@ -526,6 +528,7 @@
 ## Graph Theory
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0207-course-schedule) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/3650-minimum-cost-path-with-edge-reversals) |
@@ -535,4 +538,8 @@
 | [2976-minimum-cost-to-convert-string-i](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/3650-minimum-cost-path-with-edge-reversals) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/MananHere576/DSA-WITH-JAVA/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
